@@ -54,11 +54,11 @@ Built a real-time Splunk dashboard with two panels:
 
 | Field | Value |
 |---|---|
-| Date | 22 August 2026 |
+| Date | 22 August 2026 (initial), 29 August 2026 (re-simulation) |
 | Attacker IP | 192.168.56.102 |
 | Victim Host | DESKTOP-BA790JH (192.168.56.101) |
 | Targeted Account | testuser |
-| Failed Logons | 78+ |
+| Failed Logons | 100+ |
 | MITRE Techniques | T1110, T1059.001 |
 
 ## Evidence
