@@ -48,7 +48,7 @@ Built a real-time Splunk dashboard with two panels:
 - Failed Login Attempts Over Time — clear spike visible during Hydra attack
 - Process Creation Events Over Time — spikes during PowerShell simulation
 
-![Dashboard](<img width="959" height="662" alt="image" src="https://github.com/user-attachments/assets/be0eee4c-ec93-4568-94b0-0e523e34002a" />)
+![Dashboard]()
 
 ## Incident Summary
 
