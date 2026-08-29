@@ -48,7 +48,7 @@ Built a real-time Splunk dashboard with two panels:
 - Failed Login Attempts Over Time — clear spike visible during Hydra attack
 - Process Creation Events Over Time — spikes during PowerShell simulation
 
-![Dashboard]()
+![Dashboard](https://github.com/user-attachments/assets/44afc338-7a44-40cb-a4d2-41d896b33d32)
 
 ## Incident Summary
 
@@ -64,19 +64,19 @@ Built a real-time Splunk dashboard with two panels:
 ## Evidence
 
 ### Hydra Attack from Kali
-![Hydra Attack](<img width="806" height="777" alt="image" src="https://github.com/user-attachments/assets/956054a8-e871-4163-aab8-a0e99aa675b0" />)
+![Hydra Attack](https://github.com/user-attachments/assets/9fb278a5-a39c-4a02-a6d8-5a4ba6d6c018)
 
 ### Splunk — Failed Logon Events (Event ID 4625)
-![4625 Events](<img width="957" height="845" alt="image" src="https://github.com/user-attachments/assets/be33a33d-721e-4783-95e7-0722e438b8f5" />)
+![4625 Events](https://github.com/user-attachments/assets/3b383941-635b-4f8c-af15-101ba6d5f1bd")
 
 ### Splunk — Process Creation Events (Event ID 4688)
-![4688 Events](<img width="957" height="845" alt="image" src="https://github.com/user-attachments/assets/e8ac8120-36c8-4c12-bee0-7f35b3f32d6f" />)
+![4688 Events](https://github.com/user-attachments/assets/c909bbcd-bc44-4ec5-b19b-af6a68914091)
 
 ### Brute Force Detection Alert
-![Brute Force Alert](<img width="957" height="845" alt="image" src="https://github.com/user-attachments/assets/be2604e8-5b06-47d8-ba79-3f4f9f500d19" />)
+![Brute Force Alert](https://github.com/user-attachments/assets/2178d6c3-a5ad-4928-9f39-030625e7c41c)
 
 ### PowerShell Detection Alert
-![PowerShell Alert](<img width="957" height="845" alt="image" src="https://github.com/user-attachments/assets/25330f95-ae03-430c-bebe-3d3227681bfa" />)
+![PowerShell Alert](https://github.com/user-attachments/assets/b68f9a9f-7030-4e06-b738-b2dda18ff489)
 
 ## Containment Steps
 - Isolate host from network
