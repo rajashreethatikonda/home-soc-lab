@@ -67,7 +67,7 @@ Built a real-time Splunk dashboard with two panels:
 ![Hydra Attack](https://github.com/user-attachments/assets/9fb278a5-a39c-4a02-a6d8-5a4ba6d6c018)
 
 ### Splunk — Failed Logon Events (Event ID 4625)
-![4625 Events](https://github.com/user-attachments/assets/3b383941-635b-4f8c-af15-101ba6d5f1bd")
+![4625 Events](https://github.com/user-attachments/assets/3b383941-635b-4f8c-af15-101ba6d5f1bd)
 
 ### Splunk — Process Creation Events (Event ID 4688)
 ![4688 Events](https://github.com/user-attachments/assets/c909bbcd-bc44-4ec5-b19b-af6a68914091)
